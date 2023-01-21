@@ -4,7 +4,7 @@
 
 1. pkg install update
 2. pkg install php
-3. git clone https://github.com/Bintang73/AutoSpotify
+3. git clone https://github.com/flackooooooooo/spotify
 4. php index.php
 
 # Offer
